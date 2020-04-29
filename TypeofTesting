@@ -17,3 +17,22 @@ Integration Testing is conducted by testers
 
 It is type of (blackbox/whitebox testing)
 It can be both blackbox and whitebox testing
+
+System testing 
+
+What is system Testing?
+(System testing is the execution of the software in its final configuration, including integration with other software and hardware systems)
+
+System Testing is conducted by (Developer)
+
+It is type of (whitebox testing)
+
+Acceptance testing
+
+What is acceptance Testing?
+(Evaluate and validate that the system’s functionality meets the customer’s requirements)
+
+Acceptance Testing is conducted by customers and end-users
+
+It is type of (blackbox testing)
+Updated By 16_Dion
