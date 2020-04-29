@@ -1,1 +1,19 @@
 Notes on Type of testing – Unit and Integration testing
+Unit Testing
+
+What is unit Testing?
+It is a level of software testing where individual units/ components of a software are tested.
+
+Unit Testing is conducted by the developer
+
+It is type of whitebox testing
+
+Integration Testing
+
+What is Integration Testing?
+It is a level of software testing where individual units are combined and tested as a group
+
+Integration Testing is conducted by testers
+
+It is type of (blackbox/whitebox testing)
+It can be both blackbox and whitebox testing
